@@ -49,8 +49,8 @@ Análise completa de 72.529 registros de acidentes da PRF com Python, pandas, ma
 
 ## 📈 GitHub Stats
 
-![Nickolas's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nickolas3211&show_icons=true&theme=dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nickolas3211&layout=compact&theme=dark&hide_border=true)
+![Nickolas's GitHub stats](https://github-readme-stats-git-masterorsecondary-anuraghazra.vercel.app/api?username=Nickolas3211&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![Top Langs](https://github-readme-stats-git-masterorsecondary-anuraghazra.vercel.app/api/top-langs/?username=Nickolas3211&layout=compact&theme=dark&hide_border=true)
 
 ---
 
