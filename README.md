@@ -47,11 +47,13 @@ Análise completa de 72.529 registros de acidentes da PRF com Python, pandas, ma
 
 ---
 
-### 📈 Estatísticas do GitHub
+## 🎯 Objetivos Atuais
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Nickolas3211&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
+- 🔨 Desenvolvendo projetos práticos de análise de dados para portfólio
+- 📖 Aprofundando conhecimentos em Machine Learning
+- 🗄️ Evoluindo em SQL e modelagem de dados
+- 📊 Explorando Power BI para dashboards e relatórios
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Nickolas3211&layout=compact&langs_count=7&theme=dark)
 ---
 
 *Sempre aprendendo. Sempre construindo.*
