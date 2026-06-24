@@ -30,10 +30,23 @@ Cientista de Dados com MBA em andamento pela USP, experiência em ambientes corp
 
 ## 📂 Projetos em Destaque
 
-### 🚦 [Análise Exploratória — Acidentes em Rodovias Federais (2025)](https://github.com/Nickolas3211/datatran2025)
-Análise completa de 72.529 registros de acidentes da PRF com Python, pandas, matplotlib e seaborn. Inclui limpeza de dados, visualizações iniciais, correlações meteorológicas e heatmaps por estado e dia da semana.
+### 🎮 [Steam Game Recommender — Sistema de Recomendação com Machine Learning](https://github.com/Nickolas3211/steam-recommender)
 
-> `Python` `pandas` `matplotlib` `seaborn` `EDA`
+Sistema de recomendação de jogos da Steam baseado em **Content-Based Filtering** e **Similaridade do Cosseno**, capaz de sugerir jogos semelhantes a partir de características como tags, gêneros e categorias.
+
+O projeto processa mais de **56 mil jogos**, utiliza **541 features**, integração com a **Steam API** para dados em tempo real e possui interface web publicada no Streamlit Cloud.
+
+> `Python` `Scikit-Learn` `Pandas` `SciPy` `Machine Learning` `Recommendation Systems` `Streamlit`
+
+🔗 Aplicação: https://steam-recommender-keyvxhbvtycukkeyufzezy.streamlit.app
+
+---
+
+### 🚦 [Análise Exploratória — Acidentes em Rodovias Federais (2025)](https://github.com/Nickolas3211/datatran2025)
+
+Análise completa de 72.529 registros de acidentes da PRF utilizando Python, pandas, matplotlib e seaborn. Inclui limpeza de dados, análise exploratória, correlações meteorológicas e visualizações geográficas por estado e dia da semana.
+
+> `Python` `Pandas` `Matplotlib` `Seaborn` `EDA` `Data Analysis`
 
 ---
 
