@@ -54,8 +54,6 @@ O projeto cobre engenharia de features temporais (lags, médias móveis) e event
 
 ---
 
----
-
 ### 🚦 [Análise Exploratória — Acidentes em Rodovias Federais (2025)](https://github.com/Nickolas3211/datatran2025)
 
 Análise completa de 72.529 registros de acidentes da PRF utilizando Python, pandas, matplotlib e seaborn. Inclui limpeza de dados, análise exploratória, correlações meteorológicas e visualizações geográficas por estado e dia da semana.
