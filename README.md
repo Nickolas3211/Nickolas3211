@@ -42,6 +42,20 @@ O projeto processa mais de **56 mil jogos**, utiliza **541 features**, integraç
 
 ---
 
+### 📈 Previsão de Demanda — Olist E-Commerce (Machine Learning)
+
+Modelo de previsão de demanda para e-commerce brasileiro, comparando **RandomForest** e **LightGBM** com validação temporal (**TimeSeriesSplit**), sobre dados reais de vendas da Olist (2016-2018).
+
+O projeto cobre engenharia de features temporais (lags, médias móveis) e eventos sazonais (Black Friday, Natal, Dia das Mães), com foco em apoiar decisões de reposição de estoque e redução de ruptura.
+
+`Python` `Pandas` `Scikit-Learn` `LightGBM` `Time Series` `Machine Learning` `Forecasting`
+
+🔗 Repositório: [github.com/Nickolas3211/olist-demand-forecasting](https://github.com/Nickolas3211/olist-demand-forecasting)
+
+---
+
+---
+
 ### 🚦 [Análise Exploratória — Acidentes em Rodovias Federais (2025)](https://github.com/Nickolas3211/datatran2025)
 
 Análise completa de 72.529 registros de acidentes da PRF utilizando Python, pandas, matplotlib e seaborn. Inclui limpeza de dados, análise exploratória, correlações meteorológicas e visualizações geográficas por estado e dia da semana.
