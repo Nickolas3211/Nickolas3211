@@ -50,7 +50,7 @@ O projeto cobre engenharia de features temporais (lags, médias móveis) e event
 
 `Python` `Pandas` `Scikit-Learn` `LightGBM` `Time Series` `Machine Learning` `Forecasting`
 
-🔗 Repositório: [github.com/Nickolas3211/olist-demand-forecasting](https://github.com/Nickolas3211/olist-demand-forecasting)
+🔗 Repositório: [github.com/Nickolas3211/olist-demand-forecasting](https://github.com/Nickolas3211/fraud-risk-analysis)
 
 ---
 
