@@ -48,7 +48,7 @@ Modelo de previsão de demanda para e-commerce brasileiro, comparando **RandomFo
 
 O projeto cobre engenharia de features temporais (lags, médias móveis) e eventos sazonais (Black Friday, Natal, Dia das Mães), com foco em apoiar decisões de reposição de estoque e redução de ruptura.
 
-`Python` `Pandas` `Scikit-Learn` `LightGBM` `Time Series` `Machine Learning` `Forecasting`
+> `Python` `Pandas` `Scikit-Learn` `LightGBM` `Time Series` `Machine Learning` `Forecasting`
 
 ---
 
