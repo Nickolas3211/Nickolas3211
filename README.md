@@ -30,6 +30,15 @@ Cientista de Dados com MBA em andamento pela USP, experiência em ambientes corp
 
 ## 📂 Projetos em Destaque
 
+### 🎵 [GTZAN Music Genre Classifier — Classificação de Gêneros Musicais com DSP e Machine Learning](https://github.com/Nickolas3211/gtzan-genre-classifier)
+Classificador de gêneros musicais a partir de áudio bruto, utilizando extração de features de Processamento Digital de Sinais (**MFCCs**, **Chroma STFT**, **Spectral Centroid**, entre outras) com a biblioteca **librosa**, e comparação entre **SVM** e **Random Forest** para a classificação.
+
+O modelo SVM atingiu **69% de acurácia** entre 10 gêneros musicais (dataset GTZAN), superando a Random Forest (63.5%). O projeto inclui análise de importância de features e interpretação musical dos padrões de confusão entre gêneros (ex: rock confundido com country, reggae com hiphop).
+
+> `Python` `Librosa` `Scikit-Learn` `SVM` `Random Forest` `Audio Processing` `Machine Learning`
+
+---
+
 ### 🎮 [Steam Game Recommender — Sistema de Recomendação com Machine Learning](https://github.com/Nickolas3211/steam-recommender)
 
 Sistema de recomendação de jogos da Steam baseado em **Content-Based Filtering** e **Similaridade do Cosseno**, capaz de sugerir jogos semelhantes a partir de características como tags, gêneros e categorias.
