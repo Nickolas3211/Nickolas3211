@@ -30,6 +30,16 @@ Cientista de Dados com MBA em andamento pela USP, experiência em ambientes corp
 
 ## 📂 Projetos em Destaque
 
+### 🤖 [RAG Corporativo — Análise Semântica de PDFs com LLM](https://github.com/Nickolas3211/rag-corporate-pdf-analysis)
+
+Pipeline de **Retrieval-Augmented Generation (RAG)** para análise semântica de documentos corporativos em PDF, permitindo perguntas em linguagem natural com **respostas sempre acompanhadas de citação exata da fonte** (arquivo + página).
+
+Arquitetura completa com **LangChain**, **ChromaDB** como vector store e **RecursiveCharacterTextSplitter** para chunking. Stack 100% local e sem custo de API (embeddings via `sentence-transformers` e LLM via **Ollama**), com opção de alternar para OpenAI. Inclui interface conversacional em **Streamlit**, suíte de testes automatizados com `pytest` (mocks de embeddings/LLM, sem dependência de API real) e garantia de rastreabilidade das fontes via metadados — não depende apenas do texto gerado pelo modelo.
+
+> `Python` `LangChain` `ChromaDB` `RAG` `LLM` `Ollama` `Streamlit` `Machine Learning`
+
+---
+
 ### 🎵 [GTZAN Music Genre Classifier — Classificação de Gêneros Musicais com DSP e Machine Learning](https://github.com/Nickolas3211/gtzan-genre-classifier)
 Classificador de gêneros musicais a partir de áudio bruto, utilizando extração de features de Processamento Digital de Sinais (**MFCCs**, **Chroma STFT**, **Spectral Centroid**, entre outras) com a biblioteca **librosa**, e comparação entre **SVM** e **Random Forest** para a classificação.
 
